@@ -39,6 +39,12 @@ My goal is to design security controls that are not only correctly configured, b
 
 ## Cloud Security Engineering Portfolio
 
+**[Explore My Cloud Security Engineering Portfolio](https://github.com/cloud-sec-eng/cloud-security-portfolio)**
+
+My central portfolio organizes my enterprise cloud security lab, architecture documentation, infrastructure automation, and security validation work.
+
+**[View the Enterprise Cloud Security Lab](https://github.com/cloud-sec-eng/enterprise-cloud-security-lab)** — Flagship Azure-first enterprise architecture project. Currently in the planning and documentation stage.
+
 I'm building an enterprise-style cloud security lab to demonstrate secure infrastructure design, implementation, validation, and automation.
 
 The portfolio follows an **Azure-first, AWS-next** approach and progressively covers:
